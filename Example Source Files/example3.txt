@@ -1,0 +1,4 @@
+// This example goes through binary concatenation, equality and inequality between text values
+"hello" + " " + "world"
+"foo" + "bar" == "foobar"
+"10 corgis" != "10" + "corgis"

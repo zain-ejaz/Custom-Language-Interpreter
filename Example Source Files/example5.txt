@@ -1,0 +1,4 @@
+// This example goes through global variables involving strings
+quickWords = "hello" + " ";
+quickWords = quickWords + "world";
+print quickWords;

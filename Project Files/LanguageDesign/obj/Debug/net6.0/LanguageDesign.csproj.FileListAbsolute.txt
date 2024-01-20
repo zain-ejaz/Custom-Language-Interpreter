@@ -1,0 +1,30 @@
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\bin\Debug\net6.0\LanguageDesign.exe
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\bin\Debug\net6.0\LanguageDesign.deps.json
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\bin\Debug\net6.0\LanguageDesign.runtimeconfig.json
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\bin\Debug\net6.0\LanguageDesign.dll
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\bin\Debug\net6.0\ref\LanguageDesign.dll
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\bin\Debug\net6.0\LanguageDesign.pdb
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\obj\Debug\net6.0\LanguageDesign.csproj.AssemblyReference.cache
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\obj\Debug\net6.0\LanguageDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\obj\Debug\net6.0\LanguageDesign.AssemblyInfoInputs.cache
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\obj\Debug\net6.0\LanguageDesign.AssemblyInfo.cs
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\obj\Debug\net6.0\LanguageDesign.csproj.CoreCompileInputs.cache
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\obj\Debug\net6.0\LanguageDesign.dll
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\obj\Debug\net6.0\ref\LanguageDesign.dll
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\obj\Debug\net6.0\LanguageDesign.pdb
+C:\Users\ldi\Documents\LDI Coursework\LanguageDesign\LanguageDesign\obj\Debug\net6.0\LanguageDesign.genruntimeconfig.cache
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\bin\Debug\net6.0\LanguageDesign.exe
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\bin\Debug\net6.0\LanguageDesign.deps.json
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\bin\Debug\net6.0\LanguageDesign.runtimeconfig.json
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\bin\Debug\net6.0\LanguageDesign.dll
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\bin\Debug\net6.0\ref\LanguageDesign.dll
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\bin\Debug\net6.0\LanguageDesign.pdb
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\obj\Debug\net6.0\LanguageDesign.csproj.AssemblyReference.cache
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\obj\Debug\net6.0\LanguageDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\obj\Debug\net6.0\LanguageDesign.AssemblyInfoInputs.cache
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\obj\Debug\net6.0\LanguageDesign.AssemblyInfo.cs
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\obj\Debug\net6.0\LanguageDesign.csproj.CoreCompileInputs.cache
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\obj\Debug\net6.0\LanguageDesign.dll
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\obj\Debug\net6.0\ref\LanguageDesign.dll
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\obj\Debug\net6.0\LanguageDesign.pdb
+C:\Users\ldi\Documents\LDI Coursework\Final Submission\Project Files\LanguageDesign\obj\Debug\net6.0\LanguageDesign.genruntimeconfig.cache

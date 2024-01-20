@@ -1,0 +1,4 @@
+// This example goes through global variables involving integers
+quickMaths = 9 + 10;
+quickMaths = quickMaths + 2;
+print quickMaths;

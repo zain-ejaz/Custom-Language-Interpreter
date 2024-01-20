@@ -1,0 +1,12 @@
+==== How to Build the Project ====
+
+1. Ensure that Visual Studio is installed on machine.
+
+2. Open Visual Studio.
+
+3. Click on 'File' -> 'Open' -> 'Project/Solution'.
+
+4. Navigate to the project directory and open the solution file (.sln).
+
+5. Once the project is loaded, build the project by clicking on 'Build' -> 'Build Solution'. 
+
